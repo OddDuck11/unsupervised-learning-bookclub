@@ -5,10 +5,27 @@ A curated reading list from our book club, spanning 2019-2024. We explore topics
 ## 📚 Statistics
 
 - **Books Read:** 75+
-- **Years Active:** 2019-2024
+- **Years Active:** 2019-2025
 - **Frequency:** Monthly selections
 
 ---
+## 2025
+
+| Month | Title | Author |
+|-------|-------|--------|
+| December | *1929: Inside the Greatest Crash in WAll Street History* | Andrew Ross Sorkin |
+| November | *Murder On The Orient Express* | Agatha Christie |
+| October | *The Last Unicorn* | Peter S. Beagle |
+| September | *Quantum in Pictures* | Bob Coecke & Stefano Gogioso |
+| August | *The Enchiridion* | Epictetus |
+| July | *The Kaiju Preservation Society* | John Scalzi |
+| June | *Material World* | Ed Conway |
+| May | *The Dharma Bums* | Jack Kerouac |
+| April | *The Technological Republic: Hard Power, Soft Belief, and the Future of the West* | Alexander C. Karp & Nicholas W. Zamiska |
+| March | *1984* | George Orwell |
+| March | *Animal Farm* | George Orwell |
+| February | *House of Huawei: The Secret History of China's Most Powerful Company* | Eva Dou |
+| January | *The Picture of Dorian Gray* | Oscar Wilde |
 
 ## 2024
 
