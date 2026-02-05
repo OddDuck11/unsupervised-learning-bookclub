@@ -5,7 +5,7 @@ A curated reading list from our book club, spanning 2019-2026. We explore topics
 ## 📚 Statistics
 
 - **Books Read:** 72
-- **Years Active:** 2019-2025
+- **Years Active:** 2019-Present
 - **Frequency:** Monthly selections
 
 ---
