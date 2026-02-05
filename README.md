@@ -1,6 +1,6 @@
 # Unsupervised Learning Book Club
 
-A curated reading list from our book club, spanning 2019-2024. We explore topics including philosophy, science fiction, technology, psychology, politics, and leadership.
+A curated reading list from our book club, spanning 2019-2026. We explore topics including philosophy, science fiction, technology, psychology, politics, and leadership.
 
 ## 📚 Statistics
 
