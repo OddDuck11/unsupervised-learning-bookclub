@@ -4,11 +4,19 @@ A curated reading list from our book club, spanning 2019-2026. We explore topics
 
 ## 📚 Statistics
 
-- **Books Read:** 72
+- **Books Read:** 77
 - **Years Active:** 2019-Present
 - **Frequency:** Monthly selections
 
 ---
+## 2026
+
+| Month | Title | Author |
+|-------|-------|--------|
+| March | *A Farewell to Arms* | Ernest Hemingway |
+| February | *The Peripheral* | William Gibson |
+| January | *1929: The Great Crash* | Andrew Ross Sorkin |
+
 ## 2025
 
 | Month | Title | Author |
