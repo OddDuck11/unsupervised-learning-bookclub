@@ -4,7 +4,7 @@ A curated reading list from our book club, spanning 2019-2026. We explore topics
 
 ## 📚 Statistics
 
-- **Books Read:** 77
+- **Books Read:** 84
 - **Years Active:** 2019-Present
 - **Frequency:** Monthly selections
 
@@ -13,6 +13,13 @@ A curated reading list from our book club, spanning 2019-2026. We explore topics
 
 | Month | Title | Author |
 |-------|-------|--------|
+| November | *On the Equality of All Things: Lessons on Physics and Philosophy* | Carlo Rovelli |
+| October | *The MANIAC* | Benjamín Labatut |
+| September | *The Creative Act: A Way of Being* | Rick Rubin |
+| July | *Regime Change: Inside the Imperial Presidency of Donald Trump* | Maggie Haberman & Jonathan Swan |
+| June | *Erewhon* | Samuel Butler |
+| May | *Dungeon Crawler Carl* | Matt Dinniman |
+| April | *The Wright Brothers* | David McCullough |
 | March | *A Farewell to Arms* | Ernest Hemingway |
 | February | *The Peripheral* | William Gibson |
 | January | *1929: The Great Crash* | Andrew Ross Sorkin |
@@ -21,7 +28,7 @@ A curated reading list from our book club, spanning 2019-2026. We explore topics
 
 | Month | Title | Author |
 |-------|-------|--------|
-| December | *1929: Inside the Greatest Crash in WAll Street History* | Andrew Ross Sorkin |
+| December | *1929: Inside the Greatest Crash in Wall Street History* | Andrew Ross Sorkin |
 | November | *Murder On The Orient Express* | Agatha Christie |
 | October | *The Last Unicorn* | Peter S. Beagle |
 | September | *Quantum in Pictures* | Bob Coecke & Stefano Gogioso |
